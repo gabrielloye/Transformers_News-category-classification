@@ -1,0 +1,5 @@
+env: pytorch-1.4
+input:
+  - destination: news-category-dataset
+    source: gabrielloye/datasets/news-category-dataset/1
+machine: gpu
